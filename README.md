@@ -12,6 +12,11 @@ Obtain an API key from OpenAI and add it to the .env file in the project directo
 OPENAI_API_KEY=your_secrit_api_key
 ```
 
+Activate Virtual Env
+```bash
+source /Users/bushrarehan/PythonProjects/pdfchat/venv/bin/activate
+```
+
 Run the App
 
 Run the app.py file using the Streamlit CLI. Execute the following command:
